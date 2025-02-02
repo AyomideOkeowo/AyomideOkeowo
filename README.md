@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AyomideOkeowo
-- 👀 I’m interested in web developmnet and finance
-- 🌱 I’m currently learning fornt end and back end web development through Edx CS50 and udemy's web develompent course
+- 👋 Hi, I’m AyomideOkeowo
+- 👀 I’m interested in Data Science and finance
+- 
 - 💞️ I’m looking to collaborate on..
 - 📫 How to reach me ...
 
